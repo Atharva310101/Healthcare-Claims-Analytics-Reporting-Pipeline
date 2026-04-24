@@ -1,5 +1,7 @@
 # Medicare Part D Claims Analytics & Aberrant Statistics Pipeline
 
+Author: Atharva Pargaonkar
+
 > **Real-world healthcare claims analytics pipeline built on 26.8 million CMS Medicare records.** Covers end-to-end ETL, SQL statistical reporting, automated data verification, Z-score aberrant statistics detection, and Excel reporting — directly mirroring the responsibilities of a healthcare Data Analyst II role.
 
 ---
