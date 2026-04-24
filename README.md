@@ -64,8 +64,7 @@ specialty drug usage, or potential fraud.
 3.  It utilizes a Common Table Expression (CTE) to calculate the National Mean
     and Standard Deviation of Cost-Per-Claim.
 4.  It calculates a exact Z-Score for every provider in the database.
-5.  Providers are automatically flagged as a HIGH OUTLIER if their Z-Score is
-    > 3, or MODERATE OUTLIER if > 2.
+5.  Providers are automatically flagged as a HIGH OUTLIER if their Z-Score > 3, or MODERATE OUTLIER if > 2.
 
 Example Output: During the initial run focused on South Carolina, the system
 successfully flagged Dr. Baratam (Hematology-Oncology) with a Z-Score of 27.03
