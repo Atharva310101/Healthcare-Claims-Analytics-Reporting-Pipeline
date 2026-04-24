@@ -1,0 +1,6 @@
+check,count,threshold,status,run_at
+null_npi,0,0,PASS,2026-04-23T21:23:39.862924
+null_total_claims,0,100,PASS,2026-04-23T21:23:48.564055
+negative_cost,0,0,PASS,2026-04-23T21:23:56.923405
+extreme_cost_outliers,108587,500,FAIL,2026-04-23T21:24:12.648602
+invalid_state_code,0,0,PASS,2026-04-23T21:24:22.154539
